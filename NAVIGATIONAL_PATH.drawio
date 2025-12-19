@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.2.7">
   <diagram name="Pagina-1" id="GgDTzVnU171UErJFpgyZ">
-    <mxGraphModel dx="1627" dy="2340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="2242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
             <mxPoint x="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 22px;&quot;&gt;DASHBOARD&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 22px;&quot;&gt;DASHBOARD&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="760" y="280" as="geometry" />
         </mxCell>
         <mxCell id="gPliRu3_XL1PifsjVuiG-14" edge="1" parent="1" source="gPliRu3_XL1PifsjVuiG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="gPliRu3_XL1PifsjVuiG-2">
@@ -57,7 +57,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;REGISTRAZIONE&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot;&gt;REGISTRAZIONE&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="990" y="100" as="geometry" />
         </mxCell>
         <mxCell id="gPliRu3_XL1PifsjVuiG-9" edge="1" parent="1" source="gPliRu3_XL1PifsjVuiG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gPliRu3_XL1PifsjVuiG-4">
@@ -76,7 +76,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;LOGIN&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot;&gt;LOGIN&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="100" as="geometry" />
         </mxCell>
         <mxCell id="gPliRu3_XL1PifsjVuiG-7" edge="1" parent="1" source="gPliRu3_XL1PifsjVuiG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gPliRu3_XL1PifsjVuiG-5">
@@ -95,7 +95,7 @@
             <mxPoint x="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;LANDING PAGE&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot;&gt;LANDING PAGE&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="115" x="795" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="gPliRu3_XL1PifsjVuiG-18" edge="1" parent="1" source="gPliRu3_XL1PifsjVuiG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="gPliRu3_XL1PifsjVuiG-2">
@@ -120,7 +120,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;CREA EVENTO&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot;&gt;CREA EVENTO&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="795" y="500" as="geometry" />
         </mxCell>
         <mxCell id="gPliRu3_XL1PifsjVuiG-33" edge="1" parent="1" source="gPliRu3_XL1PifsjVuiG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gPliRu3_XL1PifsjVuiG-32">
@@ -131,7 +131,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;DETTAGLI EVENTO&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot;&gt;DETTAGLI EVENTO&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="795" y="680" as="geometry" />
         </mxCell>
         <mxCell id="gPliRu3_XL1PifsjVuiG-30" edge="1" parent="1" source="gPliRu3_XL1PifsjVuiG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="gPliRu3_XL1PifsjVuiG-23">
@@ -147,7 +147,7 @@
             <mxPoint x="1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;CHAT DI GRUPPO&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot;&gt;CHAT DI GRUPPO&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="795" y="860" as="geometry" />
         </mxCell>
         <mxCell id="gPliRu3_XL1PifsjVuiG-42" edge="1" parent="1" source="gPliRu3_XL1PifsjVuiG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gPliRu3_XL1PifsjVuiG-41">
@@ -158,10 +158,10 @@
             <mxPoint x="8" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;AREA PERSONALE&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot;&gt;AREA PERSONALE&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1080" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;EVENTI IN PROGRAMMA&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot;&gt;EVENTI IN PROGRAMMA&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1130" y="300" as="geometry" />
         </mxCell>
         <mxCell id="gPliRu3_XL1PifsjVuiG-45" edge="1" parent="1" source="gPliRu3_XL1PifsjVuiG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gPliRu3_XL1PifsjVuiG-44">
@@ -172,10 +172,10 @@
             <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;DETTAGLI EVENTO TERMINATO&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot;&gt;DETTAGLI EVENTO TERMINATO&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1360" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="gPliRu3_XL1PifsjVuiG-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;SCHERMATA FEEDBACK&lt;/font&gt;" vertex="1">
+        <mxCell id="gPliRu3_XL1PifsjVuiG-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font face=&quot;Times New Roman&quot;&gt;SCHERMATA FEEDBACK&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1220" y="680" as="geometry" />
         </mxCell>
       </root>
